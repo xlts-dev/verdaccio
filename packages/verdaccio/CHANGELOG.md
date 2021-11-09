@@ -1,5 +1,19 @@
 # verdaccio
 
+## 6.0.0-6-next.28
+
+### Patch Changes
+
+- Updated dependencies [000d4374]
+  - @verdaccio/ui-theme@6.0.0-6-next.13
+  - @verdaccio/hooks@6.0.0-6-next.9
+  - @verdaccio/logger@6.0.0-6-next.7
+  - @verdaccio/node-api@6.0.0-6-next.25
+  - verdaccio-audit@11.0.0-6-next.7
+  - verdaccio-htpasswd@11.0.0-6-next.10
+  - @verdaccio/mock@6.0.0-6-next.12
+  - @verdaccio/cli@6.0.0-6-next.26
+
 ## 6.0.0-6-next.27
 
 ### Patch Changes

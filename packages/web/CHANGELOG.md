@@ -1,5 +1,22 @@
 # @verdaccio/web
 
+## 6.0.0-6-next.22
+
+### Major Changes
+
+- 000d4374: feat: upgrade to material ui 5
+
+### Patch Changes
+
+- @verdaccio/auth@6.0.0-6-next.15
+- @verdaccio/core@6.0.0-6-next.3
+- @verdaccio/readme@11.0.0-6-next.4
+- @verdaccio/tarball@11.0.0-6-next.10
+- @verdaccio/url@11.0.0-6-next.7
+- @verdaccio/loaders@6.0.0-6-next.7
+- @verdaccio/logger@6.0.0-6-next.7
+- @verdaccio/store@6.0.0-6-next.16
+
 ## 6.0.0-6-next.21
 
 ### Minor Changes

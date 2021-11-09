@@ -1,6 +1,6 @@
 {
   "name": "@verdaccio/web",
-  "version": "6.0.0-6-next.21",
+  "version": "6.0.0-6-next.22",
   "description": "web ui middleware",
   "main": "./build/index.js",
   "types": "build/index.d.ts",
@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@types/node": "16.11.6",
-    "@verdaccio/types": "workspace:11.0.0-6-next.9",
+    "@verdaccio/types": "workspace:11.0.0-6-next.10",
     "body-parser": "1.19.0",
     "node-html-parser": "4.1.5",
     "supertest": "6.1.6",

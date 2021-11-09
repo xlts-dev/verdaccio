@@ -38,7 +38,7 @@
     "memfs": "3.2.4"
   },
   "devDependencies": {
-    "@verdaccio/types": "workspace:11.0.0-6-next.9"
+    "@verdaccio/types": "workspace:11.0.0-6-next.10"
   },
   "scripts": {
     "clean": "rimraf ./build",

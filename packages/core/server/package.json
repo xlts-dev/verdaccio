@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "@types/node": "16.11.6",
-    "@verdaccio/types": "workspace:11.0.0-6-next.9",
+    "@verdaccio/types": "workspace:11.0.0-6-next.10",
     "ts-node": "10.2.1"
   },
   "scripts": {
